@@ -4,7 +4,7 @@
 <p><em>FullStack Developer at <a href="https://www.soyhenry.com/">Henry</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: LucasPardieux](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspardieux/)](https://www.linkedin.com/in/lucaspardieux/)
+[![Linkedin: LucasPardieux](https://img.shields.io/badge/-lucaspardieux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspardieux/)](https://www.linkedin.com/in/lucaspardieux/)
 [![GitHub LucasPardieux](https://img.shields.io/github/followers/LucasPardieux?label=follow&style=social)](https://github.com/LucasPardieux)
 
 
