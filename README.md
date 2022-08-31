@@ -1,17 +1,17 @@
 
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Lucas Pardieux! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.ibb.co/NZMfkx8/profile.png" width="230">
 <p><em>FullStack Developer at <a href="https://www.soyhenry.com/">Henry</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/lucaspardieux/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/LucasPardieux)
+[![Linkedin: LucasPardieux](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/lucaspardieux/)
+[![GitHub LucasPardieux](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/LucasPardieux)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Lucas = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Redux, Node, Styled-Components, Express, PostgreSQL, Sequelize],
